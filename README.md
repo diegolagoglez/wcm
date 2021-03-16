@@ -10,6 +10,9 @@ horas de calendarios laborales diseñada tanto para la negociación de calendari
 laborales enre empresas y trabajadores como para los trabajadores que quieran
 calcular su horario anual.
 
+![Pantalla principal del Gestor de Calendarios Laborales](./art/wcm-main-window.png)
+
+
 Puede obtener ayuda del funcionamiento de la aplicación en la [página de ayuda
 del Gestor de Calendarios Laborales](https://diegolagoglez.github.io/wcm/).
 
