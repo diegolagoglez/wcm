@@ -23,9 +23,9 @@ Puede obtener la última versión de esta aplicación [visitando la página de
 
 ## Historial del cambios
 
-### v0.5.0-20210316
+### v0.5.0-20210319
 
-Primera versión oficial.
+Primera versión (pre-release).
 
 ## Copyright
 
