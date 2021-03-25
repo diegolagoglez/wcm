@@ -23,6 +23,16 @@ Puede obtener la última versión de esta aplicación [visitando la página de
 
 ## Historial del cambios
 
+### v0.5.0-20210325
+
+* Añadida la gestión de horas extras.
+* A la hora de marcar rangos de fechas, no sólo se pueden excluir los fines de semana sino también los festivos.
+* Añadida la opción de poder clonar jornadas.
+* Añadida la opción para mostrar/ocultar jornadas no usadas en las estadísticas.
+* La generación de PDF también puede mostrar los días en los que hubo horas extra trabajadas.
+* Ahora se muestra el zoom aplicado en la barra de estado así como el número de calendarios.
+* Cambios internos y solución de errores.
+
 ### v0.5.0-20210319
 
 Primera versión (pre-release).
