@@ -1,8 +1,5 @@
 # Gestor de Calendarios Laborales
 
-> **NOTA**: Esta es una versión preliminar de esta página. Todavía no se encuentran
-> disponibles ninguna versión ni la página de ayuda.
-
 ## Introducción
 
 El Gestor de Calendarios Laborales es una aplicación destinada al cálculo de
@@ -23,6 +20,12 @@ Puede obtener la última versión de esta aplicación [visitando la página de
 
 ## Historial del cambios
 
+### v0.7.0-20230316
+
+* Añadido soporte para días de libre disposición.
+* Nueva ventana para comprobar actualizaciones.
+* Arreglado un error al editar los tipos de jornadas.
+
 ### v0.5.0-20210325
 
 * Añadida la gestión de horas extras.
@@ -40,3 +43,4 @@ Primera versión (pre-release).
 ## Copyright
 
 Copyright © 2020-2021 [Diego Lago](https://twitter.com/diegolgz)
+
