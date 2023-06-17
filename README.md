@@ -20,6 +20,13 @@ Puede obtener la última versión de esta aplicación [visitando la página de
 
 ## Historial del cambios
 
+### v0.8.0-20230617
+
+* Añadido soporte para poder marcar los días como inhábiles (enfermedad, mundanza, etc.).
+* Mejorada la ventana de marcado de rangos de fechas.
+* Búsqueda de nueva versión en cada inicio de la aplicación.
+* No se marca como modificado el calendario cuando se cambia de pestaña.
+
 ### v0.7.0-20230316
 
 * Añadido soporte para días de libre disposición.
@@ -42,5 +49,5 @@ Primera versión (pre-release).
 
 ## Copyright
 
-Copyright © 2020-2021 [Diego Lago](https://twitter.com/diegolgz)
+Copyright © 2020-2023 [Diego Lago](https://twitter.com/diegolgz)
 
